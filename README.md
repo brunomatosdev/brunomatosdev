@@ -1,3 +1,4 @@
+<a href="https://files.fm/u/6tvnktsn9#/view/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg"><img src="https://files.fm/thumb_show.php?i=974r7dq23"></a>
 <h1 align="center">Hi 👋, I'm Bruno Matos</h1>
 <h3 align="center">Fueling Innovation: Passionate Full Stack Developer with Extensive Experience in Languages such as JavaScript, Python, and Solidity, Harnessing Web3 Technologies for Next-Generation Solutions.</h3>
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="400" height="250" alt="GIF">
