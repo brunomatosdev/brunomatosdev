@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Matos</h1>
 <h3 align="center">Fueling Innovation: Passionate Full Stack Developer with Extensive Experience in Languages such as JavaScript, Python, and Solidity, Harnessing Web3 Technologies for Next-Generation Solutions.</h3>
-
-<p align="left"> <a href="https://twitter.com/bruno_matos84" target="blank"><img src="https://img.shields.io/twitter/follow/bruno_matos84?logo=twitter&style=for-the-badge" alt="bruno_matos84" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
 
 - 🔭 I’m currently working on **Decentralized Exchange**
 
