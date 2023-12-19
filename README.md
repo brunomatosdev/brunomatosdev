@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **sotamenterprise@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow Me on Twitter:</h3>
 <p align="left">
   <a href="https://twitter.com/bruno_matos84" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruno_matos84" height="30" width="40" />
